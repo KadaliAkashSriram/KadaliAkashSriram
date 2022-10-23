@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KadaliAkashSriram
 - 👀 I’m interested in developing new things and apply them on real.
-- 🌱 I’m currently learning web design
+- 🌱 I’m currently learning web design and cloud computing
 - 💞️ I’m looking to collaborate on companies that offer internships on operating system, database, web design.
 - 📫 reach me at akashsriramkadali@gmail.com
 
